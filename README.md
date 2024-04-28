@@ -12,7 +12,7 @@
 ***
 ## Find The Carrot
 
-How to play Carrot in a box: There are four boxes and there is a carrot in one of them. The aim of the game is to end up with the carrot. The player choose box and then the box will be unreaveled. If the player guess the box correctly add a point.
+How to play Carrot in a box: There are four boxes and there is a hidden carrot in one of them. The game aims to end up with the carrot. The player chooses a box and then the box will be unravelled. If the player guesses the box correctly add a point.
 
 ![image](https://github.com/AMIT-Coders/JavaScript-and-Interactive-Web-assignment/assets/60690890/606541c7-ce9e-4ee4-9910-f9d75e73ddc1)
 
