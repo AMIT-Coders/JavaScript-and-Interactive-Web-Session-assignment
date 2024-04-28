@@ -123,7 +123,7 @@ button {
 Update `README.md` todo list below:
 - [ ] Find the carrot successfully in random manner.
 - [ ] Test manually the functionality.
-- [ ] Submit the To-Do App on GitHub.
+- [ ] Submit Find the Carrot game on GitHub.
 
 :white_check_mark: Use `git status` to list all new or modified files that haven't yet been committed.
 
