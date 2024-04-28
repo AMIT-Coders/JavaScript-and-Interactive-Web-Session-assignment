@@ -16,7 +16,7 @@ How to play Carrot in a box: There are four boxes and there is a carrot in one o
 ![image](https://github.com/AMIT-Coders/JavaScript-and-Interactive-Web-assignment/assets/60690890/606541c7-ce9e-4ee4-9910-f9d75e73ddc1)
 
 > [!NOTE]  
-> As shown above, the idea of the game is to random the location of the carrot in the boxes.
+> As shown above, the idea of the game is to randomize the location of the carrot in the boxes.
 
 
 ## How it works 
