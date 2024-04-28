@@ -5,6 +5,7 @@
 
 :warning: :warning: :warning: :warning: :warning: :warning: :warning:
 ```diff
+- Implement the jQuery function(s) to create the game (Find the Carrot).
 - You have to commit and push your code to GitHub at the end of your assignment.
 ```
 :warning: :warning: :warning: :warning: :warning: :warning: :warning:
