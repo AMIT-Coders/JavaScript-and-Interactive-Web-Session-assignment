@@ -117,7 +117,6 @@ button {
 ```
 4. Add functionality with jQuery (scripts.js) - Your turn.
 
-```
 
 ***
 
