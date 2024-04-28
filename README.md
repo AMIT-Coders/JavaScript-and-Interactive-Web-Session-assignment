@@ -1,4 +1,4 @@
-![image](https://github.com/AMIT-Coders/JavaScript-and-Interactive-Web-assignment/assets/60690890/606541c7-ce9e-4ee4-9910-f9d75e73ddc1)# AMIT Coders
+# AMIT Coders
 ## Full-Stack web development Bootcamp
 ### Milestone: 2 - Assignment
 
@@ -13,7 +13,7 @@
 
 How to play Carrot in a box: There are four boxes and there is a carrot in one of them. The aim of the game is to end up with the carrot. The player choose box and then the box will be unreaveled. If the player guess the box correctly add a point.
 
-![Game]([https://media.geeksforgeeks.org/wp-content/uploads/20210125180924/20210125180802.gif](https://lh3.googleusercontent.com/3fo44WsOBs8peMjWBPXupXshPVLW_YkI7B_-IZxRyh5swjThPMsAyZvONAD0g5bbJbo5qbzo71yDYeHbxUWBdp8epJU=w640-h400-e365-rj-sc0x00ffffff))
+![image](https://github.com/AMIT-Coders/JavaScript-and-Interactive-Web-assignment/assets/60690890/606541c7-ce9e-4ee4-9910-f9d75e73ddc1)
 
 > [!NOTE]  
 > As shown above, the idea of the game is to random the location of the carrot in the boxes.
